@@ -1,7 +1,7 @@
 This website was built based on Fancy jekyll powered single page site
 ======================
 
-- **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
+- **The jekyll theme repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
 ithub.com/darol100/lazydubuntu.com))
 
 -------------------------
