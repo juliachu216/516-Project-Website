@@ -1,8 +1,7 @@
 ---
-title: "video"
+title: "Discussion"
 bg: turquoise
 color: white
-fa-icon: film
 ---
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
