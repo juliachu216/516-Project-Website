@@ -1,11 +1,11 @@
 ---
-title: "Samples Collection"
+title: "Collection"
 bg: orange
 color: black
+fa-icon: save
 ---
 
-
-## Deparaffined Samples preparation
+# Deparaffined samples preparation
 All of skin samples were from tail head. They were fixed in formaldehyde, rinsed with ethanol, embedded in paraffin, and put on gold slides finally. After we got gold slides with skin samples, we removed paraffine on samples to detect Raman spectrum. 
 To deparaffinize the slides, they have to undergo incubation in xylene followed by a descending alcohol series as follows: 
 1. 10min incubation in Xylene
@@ -14,7 +14,7 @@ To deparaffinize the slides, they have to undergo incubation in xylene followed 
 4. 10min incubation in 70% ethanol
 5. 10min incubation in DI water. 
 
-### Raman spectrum collection 
+# Raman spectrum collection 
 Device: DXR Raman Microscope 
 
 ![Raman Microscope](Device.png)
