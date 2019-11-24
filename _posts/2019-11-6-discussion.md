@@ -2,7 +2,10 @@
 title: "Discussion"
 bg: turquoise
 color: white
+fa-icon: comments
 ---
+
+# Discussion
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
 
