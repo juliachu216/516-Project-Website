@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis"
-bg: '#63BD2F'
-color: white
+bg: green
+color: black
 fa-icon: laptop
 ---
 
