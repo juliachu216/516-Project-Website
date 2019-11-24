@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Binbin Zhu ABE 516X Project"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "Use machine learning to figure out Raman spectrum of skin samples infected Chronic Wasting Disease."
-source_link: "https://juliachu216.github.io/Website"
+source_link: "https://juliachu216.github.io/Website/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
