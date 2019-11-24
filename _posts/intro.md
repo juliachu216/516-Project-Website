@@ -16,4 +16,7 @@ style: center
 # Machine Learning of Raman Spectrum of Chronic Wasting Disease
 {: .text-purple}
 
+We propose to evaluate the effectiveness of Raman spectroscopy on skin biopsies from white-tailed deer infected with CWD. We collected Raman spectrum data of deparaffined samples, and compare the accuracy for different machine learning method, support vector machine and neural network. 
+
+
 [GitHub](https://github.com/juliachu216/Website)
