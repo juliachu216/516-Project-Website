@@ -1,5 +1,5 @@
 ---
-title: "Samples and Collection"
+title: "Samples Collection"
 bg: orange
 color: black
 ---
