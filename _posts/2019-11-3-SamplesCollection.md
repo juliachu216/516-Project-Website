@@ -17,7 +17,8 @@ To deparaffinize the slides, they have to undergo incubation in xylene followed 
 # Raman spectrum collection 
 Device: DXR Raman Microscope 
 
-![Raman Microscope](Device.png)
+<img src="img/Device.png" alt="Device" title="Device" style="padding:0 10px;" />
+
 * 20 sec exposure time with 5 sample exposures
 * 10x 0.25 BD microscope objective
 
@@ -25,7 +26,7 @@ Raman Spectra
 
 All raman spectra was collected like image below.
 
-![Raman Spectra](Spectra.png)
+<img src="img/Spectra.png" alt="Spectra" title="Spectra" style="padding:0 10px;" />
 
 [Plot Raman spectrum python notebook](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/RamanSpectrum.ipynb)
 
