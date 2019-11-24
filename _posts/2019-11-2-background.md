@@ -1,7 +1,7 @@
 ---
 title: "Background"
 bg: blue
-color: white
+color: black
 fa-icon: book
 ---
 
