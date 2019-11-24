@@ -2,7 +2,7 @@
 title: "Background"
 bg: blue
 color: white
-fa-icoc: book-open
+fa-icon: book-open
 ---
 
 # What is Chronic Wasting Disease?
