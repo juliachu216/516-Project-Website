@@ -4,11 +4,11 @@ bg: '#63BD2F'
 color: white
 ---
 
-## Raw Data
+# Raw Data
 
 You can download all Raman spectral data from this [zip file](https://github.com/juliachu216/ABE-516X-Project/blob/master/Raw%20Data.zip)
 
-## Pre-processing
+# Pre-processing
 
 1. Combine negative and positive data separately - Columns are wavelength value. Rows are different samples.
   
@@ -20,9 +20,9 @@ You can download all Raman spectral data from this [zip file](https://github.com
 [Pre-processing python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/Pre-process%20data.ipynb)
 
 
-The final data frame is 520 rows × 1557 columns. The first 280 rows are negative signed as N, and the rest are positive signed as P.
+### The final data frame is 520 rows × 1557 columns. The first 280 rows are negative signed as N, and the rest are positive signed as P.
 
-## Classification
+# Classification
 1. Principal Component Analysis - Reduce the variable to 10 components.
 
 2. Support Vector Machine - Use GridSearchCV to find the best parameters in suport vector machine.
