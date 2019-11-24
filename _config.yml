@@ -30,7 +30,7 @@ colors:
   blue:      '#AFEEEE'
   green:     '#66CDAA'
   purple:    '#E6E6FA'
-  orange:    '#FFA500'
+  orange:    '#FFDAB9'
   turquoise: '#FFE4C4'
 
 kramdown:
