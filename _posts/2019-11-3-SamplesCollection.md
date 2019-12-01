@@ -28,5 +28,5 @@ All raman spectra was collected like image below.
 
 <img src="img/Spectra.png" alt="Spectra" title="Spectra" style="padding:0 10px;" />
 
-[Plot Raman spectrum python notebook](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/RamanSpectrum.ipynb)
+[Plot Raman spectrum python notebook](https://nbviewer.jupyter.org/github/juliachu216/516-Project-Analysis/blob/master/analysis/PlotRamanSpectrum.ipynb)
 
