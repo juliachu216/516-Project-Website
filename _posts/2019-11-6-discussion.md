@@ -1,7 +1,7 @@
 ---
 title: "Discussion"
 bg: turquoise
-color: white
+color: black
 fa-icon: comments
 ---
 
