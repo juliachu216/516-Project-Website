@@ -7,19 +7,4 @@ fa-icon: comments
 
 # Discussion
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
-
-### Embed your video like this:
-{: .left}
-
-{% highlight html linenos=table %}
-<div class="icontain">
-  <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
-</div>
-{% endhighlight %}
-
-It'll play like this funny video below! Try resizing the page!
-
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
-
-<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>
+The best accuracy of neural network is a little bit higher than that of support vector machine. But the ideal accuracy we assumed is over 85%, which is far away the current result. We need to imporve the Raman spectral data of samples. For example, we can extend the exposure time or use 20x microscope objective when collecting samples. We can also add some nano enhancement to improve the Raman spectra.
