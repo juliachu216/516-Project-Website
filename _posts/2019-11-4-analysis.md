@@ -31,6 +31,6 @@ You can download all Raman spectral data from this [zip file](https://github.com
 3. Neural Network - Create a neural network model with 9 hidden layers, and the output layer is 2 classes (binary classification, 0 or 1). When trainning the model, it iterats on the data in batches of 8 samples and 100 of epochs.
 
 
-[Classification python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/Classification.ipynb)
+[Classification python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/516-Project-Analysis/blob/master/analysis/Classification.ipynb)
 
 
