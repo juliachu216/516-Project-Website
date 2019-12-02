@@ -24,7 +24,7 @@ Device: DXR Raman Microscope
 
 Raman Spectra
 
-All raman spectra are collected like image below.
+All raman spectra are collected like the image below.
 
 <img src="img/Spectra.png" alt="Spectra" title="Spectra" style="padding:0 10px;" />
 
