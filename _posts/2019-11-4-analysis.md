@@ -7,7 +7,9 @@ fa-icon: laptop
 
 # Raw Data
 
-You can download all Raman spectral data from this [zip file](https://github.com/juliachu216/ABE-516X-Project/blob/master/Raw%20Data.zip)
+You can download all Raman spectral data from this [zip file](https://github.com/juliachu216/516-Project-Analysis/blob/master/Raw%20Data.zip).
+
+There are 26 samples, and each samples has 20 data files. In each data file, the 1st columne is the wavelength from 99 to 3000 cm^-1, and the 2nd columne is the intensity. The values of wavelength in each file are the same. Positive samples are named with '+'. 
 
 # Pre-processing
 
