@@ -15,8 +15,11 @@ You can download all Raman spectral data from this [zip file](https://github.com
   
 2. Smooth by moving average method - Define a smooth function
   
+  Moving average is the simplest smoothing algorithm. It simply replaces each point in the signal with the average of m adjacent points, where m is a positive integer called the smooth width. You can change the smooth width in the function.
+  
 3. Baseline Correction by polynomial fitting method - Define a baseline correction function
 
+  Baseline correction aims to eliminate the interference of fluorescence spectra. The traditional baseline correction algorithm based on polynomial fitting is simple and easy to implement, but its flexibility is poor due to the uncertain fitting order.
 
 [Pre-processing python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/Pre-process%20data.ipynb)
 
