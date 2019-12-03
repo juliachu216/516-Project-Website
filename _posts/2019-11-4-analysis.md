@@ -24,7 +24,7 @@ There are 26 samples, and each samples has 20 data files. In each data file, the
     Baseline correction aims to eliminate the interference of fluorescence spectra. The traditional baseline correction algorithm based on polynomial fitting is simple and easy to implement, but its flexibility is poor due to the uncertain fitting order. In the code, degree of the polynomial is 3, which is default.
 
 
-[Pre-processing python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/Pre-process%20data.ipynb)
+## [Pre-processing python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/ABE-516X-Project/blob/master/analysis/Pre-process%20data.ipynb)
 
 
 ### The final data frame is 520 rows × 1557 columns. The first 280 rows are negative signed as N, and the rest are positive signed as P.
@@ -37,6 +37,6 @@ There are 26 samples, and each samples has 20 data files. In each data file, the
 3. Neural Network - Create a neural network model with 9 hidden layers, and the output layer is 2 classes (binary classification, 0 or 1). When trainning the model, it iterats on the data in batches of 8 samples and 100 of epochs.
 
 
-[Classification python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/516-Project-Analysis/blob/master/analysis/Classification.ipynb)
+## [Classification python notebook in Jupyter](https://nbviewer.jupyter.org/github/juliachu216/516-Project-Analysis/blob/master/analysis/Classification.ipynb)
 
 
